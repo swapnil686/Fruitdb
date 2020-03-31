@@ -1,0 +1,18 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	border: 50px solid #dec192;
+	border-bottom: 0px;
+
+}
+#ss{
+	text-align: center;
+}
+
+.fbottom h6{
+	color:#367beb;
+	margin-top: 2rem;
+	margin-right: 2rem;
+	font-size: .9rem;
+	float: right;
+}
